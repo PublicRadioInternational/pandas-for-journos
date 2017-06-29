@@ -46,3 +46,5 @@ Then type:
 
 Does everything work?
 
+If so, you're ready to begin. Type "jupyter notebook" in your Terminal window, and press ENTER.
+Then click "GTDExample" from the list of files in your browser. 💻  📈  📊  
